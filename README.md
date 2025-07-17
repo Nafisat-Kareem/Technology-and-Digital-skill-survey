@@ -38,9 +38,6 @@ This project is for **practice purposes only** and not intended for live data co
   ## 🖼️ Form Preview
 
 Below is a screenshot of the KoboToolbox form as it appears during deployment:
-
-![Form Screenshot](./form-preview.png)
-
----
+survey%20form%20preview-png.png
 
 👩‍💻 Built by Nafisat Kareem as part of a data collection design learning process.
